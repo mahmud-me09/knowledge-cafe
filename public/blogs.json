@@ -1,0 +1,152 @@
+[
+    {
+        "id": 1,
+        "cover": "https://example.com/cover1.jpg",
+        "title": "Exploring the Mysteries of the Universe",
+        "author_img": "https://example.com/author1.jpg",
+        "author": "AstronomyEnthusiast",
+        "posted_date": "2024-03-14",
+        "reading_time": 10,
+        "hashtags": ["space", "astronomy", "cosmology"]
+    },
+    {
+        "id": 2,
+        "cover": "https://example.com/cover2.jpg",
+        "title": "The Art of Cooking: A Culinary Journey",
+        "author_img": "https://example.com/author2.jpg",
+        "author": "ChefMaster",
+        "posted_date": "2024-03-13",
+        "reading_time": 15,
+        "hashtags": ["cooking", "food", "recipes"]
+    },
+    {
+        "id": 3,
+        "cover": "https://example.com/cover3.jpg",
+        "title": "Unlocking the Secrets of Artificial Intelligence",
+        "author_img": "https://example.com/author3.jpg",
+        "author": "AIExplorer",
+        "posted_date": "2024-03-12",
+        "reading_time": 20,
+        "hashtags": ["AI", "machinelearning", "technology"]
+    },
+    {
+        "id": 4,
+        "cover": "https://example.com/cover4.jpg",
+        "title": "Travel Diaries: Adventures Across the Globe",
+        "author_img": "https://example.com/author4.jpg",
+        "author": "WanderlustTraveler",
+        "posted_date": "2024-03-11",
+        "reading_time": 30,
+        "hashtags": ["travel", "adventure", "explore"]
+    },
+    {
+        "id": 5,
+        "cover": "https://example.com/cover5.jpg",
+        "title": "Mindfulness: Achieving Inner Peace",
+        "author_img": "https://example.com/author5.jpg",
+        "author": "MindfulJourney",
+        "posted_date": "2024-03-10",
+        "reading_time": 12,
+        "hashtags": ["mindfulness", "meditation", "wellness"]
+    },
+    {
+        "id": 6,
+        "cover": "https://example.com/cover6.jpg",
+        "title": "Fashion Trends: Glamour and Style",
+        "author_img": "https://example.com/author6.jpg",
+        "author": "Fashionista",
+        "posted_date": "2024-03-09",
+        "reading_time": 18,
+        "hashtags": ["fashion", "style", "trends"]
+    },
+    {
+        "id": 7,
+        "cover": "https://example.com/cover7.jpg",
+        "title": "Fitness Journey: Transform Your Body",
+        "author_img": "https://example.com/author7.jpg",
+        "author": "FitLifestyle",
+        "posted_date": "2024-03-08",
+        "reading_time": 25,
+        "hashtags": ["fitness", "exercise", "health"]
+    },
+    {
+        "id": 8,
+        "cover": "https://example.com/cover8.jpg",
+        "title": "Green Living: Sustainability Tips",
+        "author_img": "https://example.com/author8.jpg",
+        "author": "EcoWarrior",
+        "posted_date": "2024-03-07",
+        "reading_time": 22,
+        "hashtags": ["sustainability", "environment", "ecofriendly"]
+    },
+    {
+        "id": 9,
+        "cover": "https://example.com/cover9.jpg",
+        "title": "Art Appreciation: Discovering Creativity",
+        "author_img": "https://example.com/author9.jpg",
+        "author": "ArtLover",
+        "posted_date": "2024-03-06",
+        "reading_time": 17,
+        "hashtags": ["art", "creativity", "inspiration"]
+    },
+    {
+        "id": 10,
+        "cover": "https://example.com/cover10.jpg",
+        "title": "Parenting Guide: Nurturing Your Children",
+        "author_img": "https://example.com/author10.jpg",
+        "author": "ParentingPro",
+        "posted_date": "2024-03-05",
+        "reading_time": 28,
+        "hashtags": ["parenting", "family", "children"]
+    },
+    {
+        "id": 11,
+        "cover": "https://example.com/cover11.jpg",
+        "title": "Photography Tips: Capturing Memories",
+        "author_img": "https://example.com/author11.jpg",
+        "author": "PhotoEnthusiast",
+        "posted_date": "2024-03-04",
+        "reading_time": 14,
+        "hashtags": ["photography", "memories", "tips"]
+    },
+    {
+        "id": 12,
+        "cover": "https://example.com/cover12.jpg",
+        "title": "Financial Planning: Securing Your Future",
+        "author_img": "https://example.com/author12.jpg",
+        "author": "FinanceGuru",
+        "posted_date": "2024-03-03",
+        "reading_time": 23,
+        "hashtags": ["finance", "investing", "money"]
+    },
+    {
+        "id": 13,
+        "cover": "https://example.com/cover13.jpg",
+        "title": "Healthy Eating: Fuel Your Body Right",
+        "author_img": "https://example.com/author13.jpg",
+        "author": "HealthyLiving",
+        "posted_date": "2024-03-02",
+        "reading_time": 16,
+        "hashtags": ["healthyeating", "nutrition", "wellness"]
+    },
+    {
+        "id": 14,
+        "cover": "https://example.com/cover14.jpg",
+        "title": "Writing Essentials: Crafting Compelling Stories",
+        "author_img": "https://example.com/author14.jpg",
+        "author": "StoryTeller",
+        "posted_date": "2024-03-01",
+        "reading_time": 21,
+        "hashtags": ["writing", "storytelling", "creativity"]
+    },
+    {
+        "id": 15,
+        "cover": "https://example.com/cover15.jpg",
+        "title": "Gardening Tips: Cultivating a Green Haven",
+        "author_img": "https://example.com/author15.jpg",
+        "author": "GreenThumb",
+        "posted_date": "2024-02-29",
+        "reading_time": 19,
+        "hashtags": ["gardening", "plants", "nature"]
+    }
+]
